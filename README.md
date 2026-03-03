@@ -45,21 +45,21 @@ To develop a car sales management mobile application using:
 ### 1️⃣ Clone the Repository
 
 ``` bash
-git clone https://github.com/hafsalman/BottomTabNavigation
+git clone https://github.com/hafsalman/CarSalesManagementApp
 ```
 
 ### 2️⃣ Initialize Expo Project 
 
 ``` bash
-npx create-expo-app BottomTabNav --template expo-template-blank
+npx create-expo-app CarSales --template expo-template-blank
 ```
 
 ### 3️⃣ Navigate to Project Folder
 
 ``` bash
-cd SignIn
+cd CarSales
 ```
-(Replace the default App.js with the cloned App.js and add the rest of the folders.)
+(Replace the default App.js with the cloned App.js and add the rest of the folders and ```babel.config.js```.)
 
 ### 4️⃣ Install Dependencies 
 
